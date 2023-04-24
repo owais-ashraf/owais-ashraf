@@ -1,4 +1,4 @@
-[![MasterHead](https://ctovision.com/wp-content/uploads/hacking-and-blockchain.gif)](https://js-clock-neon.netlify.app/)
+[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://js-clock-neon.netlify.app/)
 - 👋 Hi, I’m @Owais-Ashraf
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Blockchain, Solidity.
